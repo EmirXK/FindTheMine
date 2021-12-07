@@ -1,2 +1,2 @@
 # FindTheMine
-In this game, your goal is finding the mine that hided in the 8x8 map. When you enter a location, a number will appear. You have to use that number for find the number. Good luck!
+Your goal in the game is to find the only mine that's hidden in an 8x8 hidden map. What you have to do is simple, enter an "x" and "y" coordinate value, you will then see a number in the given coordinate point. The number that you see references the distance between that point and the mine. However, you don't know if the distance from the mine is given in the x coordinate or the y coordinate.
